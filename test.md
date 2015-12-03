@@ -20,6 +20,6 @@ int main(int argc,char *argv[])
 ```
 ### hello **yangbofong** shi tian cai
 |dasfad | fasdfads |
-|-|-|
+|-------|----------|
 |fasdfasd |fadsfads |
 |faas|fadsf|
